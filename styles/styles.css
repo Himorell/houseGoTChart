@@ -1,0 +1,42 @@
+body{
+    background-color: #3C434A;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.westerosMap {
+    width: 45%;
+    margin: auto;
+}
+
+.westerosMap path {
+    fill:#6D6450;
+    stroke: #3C434A;
+}
+
+.westerosMap :hover {
+    fill:darkred;
+}
+
+.cardsCharacters {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 2px 0 0 0;
+}
+
+.card {
+    margin: 3px;
+    background-color: #B3977C;
+
+}
+
+img {
+    height: 80px;
+}
+
