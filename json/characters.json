@@ -23,29 +23,7 @@
             "actorName":"David Rintoul",
             "actorLink":"/name/nm0727778/",
             "nickname":"The Mad King",
-            "royal":true,
-            "killed":[
-                "Brandon Stark",
-                "Rickard Stark"
-            ],
-            "servedBy":[
-                "Arthur Dayne",
-                "Jaime Lannister"
-            ],
-            "parentOf":[
-                "Daenerys Targaryen",
-                "Rhaegar Targaryen",
-                "Viserys Targaryen"
-            ],
-            "siblings":[
-                "Rhaella Targaryen"
-            ],
-            "marriedEngaged":[
-                "Rhaella Targaryen"
-            ],
-            "killedBy":[
-                "Jaime Lannister"
-            ]
+            "royal":true
         },
         {
             "characterName":"Arya Stark",
@@ -60,22 +38,6 @@
                 "Sansa Stark",
                 "Bran Stark",
                 "Rickon Stark"
-            ],
-            "killed":[
-                "Red Keep Stableboy",
-                "Frey Soldier #1",
-                "Polliver",
-                "Rorge",
-                "Ghita",
-                "Meryn Trant",
-                "The Waif",
-                "Black Walder Rivers",
-                "Lothar Frey",
-                "Walder Frey",
-                "Petyr Baelish",
-                "The Night King",
-                "White Walker",
-                "Viserion"
             ],
             "parents":[
                 "Eddard Stark",
@@ -95,14 +57,6 @@
             "actorLink":"/name/nm0538869/",
             "killedBy":[
                 "Euron Greyjoy"
-            ],
-            "parentOf":[
-                "Yara Greyjoy",
-                "Theon Greyjoy"
-            ],
-            "siblings":[
-                "Euron Greyjoy",
-                "Aeron Greyjoy"
             ]
         },
         {
@@ -115,14 +69,6 @@
             "actorLink":"/name/nm1152798/",
             "parents":[
                 "Rickard Stark"
-            ],
-            "siblings":[
-                "Brandon Stark",
-                "Lyanna Stark",
-                "Eddard Stark"
-            ],
-            "killedBy":[
-                "Wights"
             ]
         },
         {
@@ -234,26 +180,7 @@
                 "Myrcella Baratheon",
                 "Tommen Baratheon"
             ],
-            "royal":true,
-            "siblings":[
-                "Jaime Lannister",
-                "Tyrion Lannister"
-            ],
-            "marriedEngaged":[
-                "Robert Baratheon"
-            ],
-            "killed":[
-                "Lancel Lannister",
-                "High Sparrow",
-                "Loras Tyrell",
-                "Mace Tyrell",
-                "Margaery Tyrell",
-                "Kevan Lannister",
-                "Tyene Sand"
-            ],
-            "killedBy":[
-                "Roof collapse"
-            ]
+            "royal":true
         },
         {
             "characterName":"Daenerys Targaryen",
@@ -267,36 +194,6 @@
             "parents":[
                 "Aerys II Targaryen",
                 "Rhaella Targaryen"
-            ],
-            "siblings":[
-                "Rhaegar Targaryen",
-                "Viserys Targaryen"
-            ],
-            "killed":[
-                "Khal Drogo",
-                "Mirri Maz Duur",
-                "Doreah",
-                "Xaro Xhoan Daxos",
-                "Khal Rhalko",
-                "Khal Brozho",
-                "Khal Qorro",
-                "Khal Forzho",
-                "Khal Moro",
-                "Dothraki Bloodrider #1",
-                "Dothraki Bloodrider #2",
-                "Randyll Tarly",
-                "Dickon Tarly",
-                "Eleanor",
-                "Eleanor's Daughter",
-                "Lord Varys"
-            ],
-            "servedBy":[
-                "Barristan Selmy",
-                "Daario Naharis",
-                "Grey Worm",
-                "Jorah Mormont",
-                "Missandei",
-                "Tyrion Lannister"
             ],
             "parentOf":[
                 "Rhaego"
@@ -360,40 +257,6 @@
             "nickname":"Ned",
             "guardianOf":[
                 "Jon Snow"
-            ],
-            "siblings":[
-                "Brandon Stark",
-                "Benjen Stark",
-                "Lyanna Stark"
-            ],
-            "parents":[
-                "Rickard Stark"
-            ],
-            "killed":[
-                "Arthur Dayne",
-                "Will",
-                "Lady",
-                "Gerold Hightower"
-            ],
-            "allies":[
-                "Howland Reed",
-                "Robert Baratheon"
-            ],
-            "guardedBy":[
-                "Jon Arryn"
-            ],
-            "killedBy":[
-                "Ilyn Payne"
-            ],
-            "marriedEngaged":[
-                "Catelyn Stark"
-            ],
-            "parentOf":[
-                "Robb Stark",
-                "Sansa Stark",
-                "Arya Stark",
-                "Bran Stark",
-                "Rickon Stark"
             ]
         },
         {
@@ -507,20 +370,6 @@
             ]
         },
         {
-            "characterName":"Hodor",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMzU4MDEyNF5BMl5BanBnXkFtZTcwNDM2ODg4OQ@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMzU4MDEyNF5BMl5BanBnXkFtZTcwNDM2ODg4OQ@@._V1_.jpg",
-            "characterLink":"/character/ch0238584/",
-            "actorName":"Kristian Nairn",
-            "actorLink":"/name/nm3964231/",
-            "killed":[
-                "Locke"
-            ],
-            "killedBy":[
-                "Wights"
-            ]
-        },
-        {
             "characterName":"Hoster Tully",
             "houseName":"Tully",
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTY3YzMzOWUtNzNjYi00ODYzLThjNjUtNzc4NzFlNmE2NjgyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
@@ -628,40 +477,7 @@
             "characterLink":"/character/ch0155777/",
             "actorName":"Kit Harington",
             "actorLink":"/name/nm3229685/",
-            "royal":true,
-            "parents":[
-                "Rhaegar Targaryen",
-                "Lyanna Stark"
-            ],
-            "guardedBy":[
-                "Eddard Stark",
-                "Ghost"
-            ],
-            "killed":[
-                "Othor",
-                "Qhorin Halfhand",
-                "Orell",
-                "Karl Tanner",
-                "Styr",
-                "Mance Rayder",
-                "Janos Slynt",
-                "White Walker",
-                "Alliser Thorne",
-                "Othell Yarwyck",
-                "Bowen Marsh",
-                "Olly",
-                "Lyanna Stark",
-                "Daenerys Targaryen"
-            ],
-            "killedBy":[
-                "Alliser Thorne",
-                "Othell Yarwyck",
-                "Bowen Marsh",
-                "Olly"
-            ],
-            "marriedEngaged":[
-                "Ygritte"
-            ]
+            "royal":true
         },
         {
             "characterName":"Kevan Lannister",
@@ -717,18 +533,6 @@
             "siblings":[
                 "Martyn Lannister",
                 "Willem Lannister"
-            ]
-        },
-        {
-            "characterName":"Locke",
-            "houseName":"Stark",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BOTg1MDM2ODE0MF5BMl5BanBnXkFtZTcwNzM4MzA0OQ@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BOTg1MDM2ODE0MF5BMl5BanBnXkFtZTcwNzM4MzA0OQ@@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
-            "characterLink":"/character/ch0045904/",
-            "actorName":"Noah Taylor",
-            "actorLink":"/name/nm0852965/",
-            "killedBy":[
-                "Hodor"
             ]
         },
         {
@@ -791,24 +595,6 @@
             "actorLink":"/name/nm4957233/",
             "parents":[
                 "Rickard Stark"
-            ],
-            "siblings":[
-                "Brandon Stark",
-                "Benjen Stark",
-                "Eddard Stark"
-            ],
-            "marriedEngaged":[
-                "Robert Baratheon",
-                "Rhaegar Targaryen"
-            ],
-            "abductedBy":[
-                "Rhaegar Targaryen"
-            ],
-            "parentOf":[
-                "Jon Snow"
-            ],
-            "killedBy":[
-                "Jon Snow"
             ]
         },
         {
@@ -896,24 +682,6 @@
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTA4OTA1MTIxMzdeQTJeQWpwZ15BbWU3MDY2NjQ4NTc@._V1._SX100_SY140_.jpg",
             "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTA4OTA1MTIxMzdeQTJeQWpwZ15BbWU3MDY2NjQ4NTc@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
             "characterLink":"/character/ch0238585/",
-            "actors":[
-                {
-                    "actorName":"Aimee Richardson",
-                    "actorLink":"/name/nm4048461/",
-                    "seasonsActive":[
-                    1,
-                    2
-                    ]
-                },
-                {
-                    "actorName":"Nell Tiger Free",
-                    "actorLink":"/name/nm4836100/",
-                    "seasonsActive":[
-                    5,
-                    6
-                    ]
-                }
-            ],
             "parents":[
                 "Robert Baratheon",
                 "Cersei Lannister",
@@ -1088,51 +856,6 @@
             ]
         },
         {
-            "characterName":"Rhaella Targaryen",
-            "houseName":"Targaryen",
-            "royal":true,
-            "parentOf":[
-                "Daenerys Targaryen",
-                "Rhaegar Targaryen",
-                "Viserys Targaryen"
-            ],
-            "siblings":[
-                "Aerys II Targaryen"
-            ],
-            "marriedEngaged":[
-                "Aerys II Targaryen"
-            ]
-        },
-        {
-            "characterName":"Rhaenys Targaryen",
-            "houseName":"Targaryen",
-            "royal":true,
-            "parents":[
-                "Elia Martell",
-                "Rhaegar Targaryen"
-            ],
-            "sibling":[
-                "Aegon Targaryen",
-                "Jon Snow"
-            ],
-            "killedBy":[
-                "Gregor Clegane"
-            ]
-        },
-        {
-            "characterName":"Rickard Stark",
-            "houseName":"Stark",
-            "parentOf":[
-                "Brandon Stark",
-                "Benjen Stark",
-                "Eddard Stark",
-                "Lyanna Stark"
-            ],
-            "killedBy":[
-                "Aerys II Targaryen"
-            ]
-        },
-        {
             "characterName":"Rickon Stark",
             "houseName":"Stark",
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMWZiOGNjMDAtOTRlNi00MDJmLWEyMTMtOGEwZTM5ODJlNDAyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
@@ -1140,15 +863,6 @@
             "characterLink":"/character/ch0233141/",
             "actorName":"Art Parkinson",
             "actorLink":"/name/nm3280686/",
-            "siblings":[
-                "Robb Stark",
-                "Sansa Stark",
-                "Arya Stark",
-                "Bran Stark"
-            ],
-            "killedBy":[
-                "Ramsay Snow"
-            ],
             "parents":[
                 "Eddard Stark",
                 "Catelyn Stark"
@@ -1166,27 +880,6 @@
             "actorName":"Richard Madden",
             "actorLink":"/name/nm0534635/",
             "royal":true,
-            "siblings":[
-                "Sansa Stark",
-                "Arya Stark",
-                "Bran Stark",
-                "Rickon Stark"
-            ],
-            "killed":[
-                "Wallen",
-                "Rickard Karstark"
-            ],
-            "marriedEngaged":[
-                "Roslin Frey",
-                "Talisa Maegyr"
-            ],
-            "killedBy":[
-                "Roose Bolton"
-            ],
-            "parents":[
-                "Eddard Stark",
-                "Catelyn Stark"
-            ],
             "guardedBy":[
                 "Grey Wind"
             ]
@@ -1290,37 +983,7 @@
             "houseName":"Baratheon",
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BZGZjNDA5YWUtZjE5OC00NGE2LWI3Y2UtOTQ1Yjg1MDc3MTk4L2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
             "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BZGZjNDA5YWUtZjE5OC00NGE2LWI3Y2UtOTQ1Yjg1MDc3MTk4L2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0316924/",
-            "actors":[
-                {
-                    "actorName":"Tara Fitzgerald",
-                    "actorLink":"/name/nm0001216/",
-                    "seasonsActive":[
-                    3,
-                    4,
-                    5
-                    ]
-                },
-                {
-                    "actorName":"Sarah MacKeever",
-                    "actorLink":"/name/nm5223922/",
-                    "seasonsActive":[
-                    2
-                    ]
-                }
-            ],
-            "killedBy":[
-                "Selyse Baratheon"
-            ],
-            "killed":[
-                "Selyse Baratheon"
-            ],
-            "marriedEngaged":[
-                "Stannis Baratheon"
-            ],
-            "parentOf":[
-                "Shireen Baratheon"
-            ]
+            "characterLink":"/character/ch0316924/"
         },
         {
             "characterName":"Shaggydog",
@@ -1362,24 +1025,7 @@
             "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNzY0NzI0NF5BMl5BanBnXkFtZTcwNjA2NDk4OQ@@._V1_.jpg",
             "characterLink":"/character/ch0250897/",
             "actorName":"Stephen Dillane",
-            "actorLink":"/name/nm0226820/",
-            "siblings":[
-                "Robert Baratheon",
-                "Renly Baratheon"
-            ],
-            "killed":[
-                "Gordy",
-                "Simpson"
-            ],
-            "killedBy":[
-                "Brienne of Tarth"
-            ],
-            "marriedEngaged":[
-                "Selyse Baratheon"
-            ],
-            "parentOf":[
-                "Shireen Baratheon"
-            ]
+            "actorLink":"/name/nm0226820/"
         },
         {
             "characterName":"Summer",
@@ -1449,25 +1095,6 @@
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BOTY1YWUxM2QtZjhmZC00ZmQ2LThkM2YtNTk2MmQ5OTk3NGMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
             "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BOTY1YWUxM2QtZjhmZC00ZmQ2LThkM2YtNTk2MmQ5OTk3NGMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
             "characterLink":"/character/ch0256424/",
-            "actors":[
-                {
-                    "actorName":"Callum Wharry",
-                    "actorLink":"/name/nm4422626/",
-                    "seasonsActive":[
-                    1,
-                    2
-                    ]
-                },
-                {
-                    "actorName":"Dean-Charles Chapman",
-                    "actorLink":"/name/nm2835616/",
-                    "seasonsActive":[
-                    4,
-                    5,
-                    6
-                    ]
-                }
-            ],
             "parents":[
                 "Robert Baratheon",
                 "Cersei Lannister",

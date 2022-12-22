@@ -22,6 +22,30 @@ body{
     fill:darkred;
 }
 
+.stark{
+    display: block;
+}
+
+.greyjoy{
+    display: block;
+}
+
+.tyrell{
+    display: block;
+}
+
+.martell{
+    display: block;
+}
+
+.baratheon{
+    display: block;
+}
+
+.lannister{
+    display: block;
+}
+
 .cardsCharacters {
     display: flex;
     flex-wrap: wrap;
