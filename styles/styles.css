@@ -6,26 +6,30 @@ body{
     flex-wrap: wrap;
 }
 
+header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 div.container {
+    margin: 10px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
 }
 
 .westerosMap {
-    width: 45%;
-    margin: auto;
+    width: 40%;
 }
 
 .westerosMap path {
-    fill:#6D6450;
-    stroke: #3C434A;
+    fill:#4a4a49;
+    stroke: #060606;
 }
 
-a#North.stark {
-    background-image: url("/images/sigil_stark_small.jpg");
-}
 
 .westerosMap .stark :hover {
     fill:rgb(175, 166, 166);
@@ -64,7 +68,7 @@ a#North.stark {
 }
 
 .bannerGoT {
-    width: 70%;
+    width: 100%;
 }
 
 
@@ -74,13 +78,63 @@ a#North.stark {
     flex-direction: row;
     justify-content: space-around;
     margin: 2px 0 0 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.card {
+.Stark {
     margin: 3px;
-    background-color: #B3977C;
+    background-color: rgb(175, 166, 166)!important;
+    color: black;
 
 }
+
+.Lannister {
+    margin: 3px;
+    background-color: rgb(150, 0, 0)!important;
+    color: gold;
+
+}
+
+.Baratheon {
+    margin: 3px;
+    background-color:rgb(248, 232, 56)!important;
+    color: #060606;
+
+}
+
+.Tyrell {
+    margin: 3px;
+    background-color: rgb(34, 94, 36)!important;
+    color:  gold;
+
+}
+
+.Martell {
+    margin: 3px;
+    background-color: rgb(248, 127, 6)!important;
+    color: darkred;
+
+}
+
+.Tully {
+    margin: 3px;
+    background-color: blue!important;
+    color: whitesmoke;
+
+}
+
+.Greyjoy {
+    margin: 3px;
+    background-color: rgb(9, 9, 9)!important;
+    color: gold;
+
+}
+.Targaryen {
+    margin: 3px;
+    background-color: rgb(9, 9, 9)!important;
+    color: darkred;
+}
+
 
 img {
     height: 80px;
