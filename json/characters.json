@@ -72,37 +72,6 @@
             ]
         },
         {
-            "characterName":"Black Walder Rivers",
-            "houseName":"Frey",
-            "characterLink":"/character/ch0014591/",
-            "actorName":"Tim Plester",
-            "actorLink":"/name/nm1043031/",
-            "killed":[
-                "Catelyn Stark"
-            ],
-            "killedBy":[
-                "Arya Stark"
-            ],
-            "parents":[
-                "Walder Frey"
-            ]
-        },
-        {
-            "characterName":"Brandon Stark",
-            "houseName":"Stark",
-            "killedBy":[
-                "Aerys II Targaryen"
-            ],
-            "parents":[
-                "Rickard Stark"
-            ],
-            "siblings":[
-                "Lyanna Stark",
-                "Benjen Stark",
-                "Eddard Stark"
-            ]
-        },
-        {
             "characterName":"Bran Stark",
             "houseName":"Stark",
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NTg0NTI3MTBeQTJeQWpwZ15BbWU3MDEyNjg4OTQ@._V1._SX100_SY140_.jpg",
@@ -111,12 +80,6 @@
             "actorName":"Isaac Hempstead Wright",
             "actorLink":"/name/nm3652842/",
             "royal":true,
-            "siblings":[
-                "Robb Stark",
-                "Sansa Stark",
-                "Arya Stark",
-                "Rickon Stark"
-            ],
             "parents":[
                 "Eddard Stark",
                 "Catelyn Stark"
@@ -335,13 +298,7 @@
         {
             "characterName":"Ghost",
             "houseName":"Stark",
-            "siblings":[
-                "Grey Wind",
-                "Lady",
-                "Nymeria",
-                "Summer",
-                "Shaggydog"
-            ],
+            "characterImageFull": "https://i.insider.com/5975ec18b4ec01345d8b4761?width=700&format=jpeg&auto=webp",
             "guardianOf":[
                 "Jon Snow"
             ],
@@ -352,13 +309,7 @@
         {
             "characterName":"Grey Wind",
             "houseName":"Stark",
-            "siblings":[
-                "Lady",
-                "Nymeria",
-                "Summer",
-                "Shaggydog",
-                "Ghost"
-            ],
+            "characterImageFull": "https://pm1.narvii.com/6071/1bcfa11eceb830c422646a75148e960ead3d4cb1_hq.jpg",
             "guardianOf":[
                 "Robb Stark"
             ],
@@ -502,15 +453,9 @@
         {
             "characterName":"Lady",
             "houseName":"Stark",
+            "characterImageFull":"https://cdn.images.express.co.uk/img/dynamic/20/590x/secondary/Game-of-thrones-season-7-direwolf-names-stark-ghost-nymeria-lady-summer-shaggydog-grey-wind-1005867.jpg",
             "killedBy":[
                 "Eddard Stark"
-            ],
-            "siblings":[
-                "Grey Wind",
-                "Nymeria",
-                "Summer",
-                "Shaggydog",
-                "Ghost"
             ],
             "guardianOf":[
                 "Sansa Stark"
@@ -702,7 +647,7 @@
         {
             "characterName":"Nymeria",
             "houseName":"Stark",
-            "characterImageFull":"https://static.wikia.nocookie.net/hieloyfuego/images/6/67/Nymeria_lobo_huargo.JPG/revision/latest?cb=20120225203704",
+            "characterImageFull":"https://naukas.com/fx/uploads/2017/07/Captura-de-pantalla-2017-07-27-a-las-20.14.49.png",
             "siblings":[
                 "Grey Wind",
                 "Lady",
@@ -712,21 +657,6 @@
             ],
             "guardianOf":[
                 "Arya Stark"
-            ]
-        },
-        {
-            "characterName":"Nymeria Sand",
-            "houseName":"Martell",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNDZmN2FkMTEtMmMyYy00ZTcwLWE3MGQtNGU1NzY4MjAxNjQ0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNDZmN2FkMTEtMmMyYy00ZTcwLWE3MGQtNGU1NzY4MjAxNjQ0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0468074/",
-            "actorName":"Jessica Henwick",
-            "actorLink":"/name/nm3725055/",
-            "killedBy":[
-                "Euron Greyjoy"
-            ],
-            "parents":[
-                "Oberyn Martell"
             ]
         },
         {
@@ -812,6 +742,7 @@
         {
             "characterName":"Rhaegal",
             "houseName":"Targaryen",
+            "characterImageFull":"https://awoiaf.westeros.org/images/a/a4/Marc_Fishman_Rhaegal_in_the_pit_face.jpg",
             "siblings":[
                 "Drogon",
                 "Viserion"
@@ -834,25 +765,6 @@
             "parents":[
                 "Rhaella Targaryen",
                 "Aerys II Targaryen"
-            ],
-            "siblings":[
-                "Daenerys Targaryen",
-                "Viserys Targaryen"
-            ],
-            "abducted":[
-                "Lyanna Stark"
-            ],
-            "marriedEngaged":[
-                "Elia Martell",
-                "Lyanna Stark"
-            ],
-            "killedBy":[
-                "Robert Baratheon"
-            ],
-            "parentOf":[
-                "Jon Snow",
-                "Rhaenys Targaryen",
-                "Aegon Targaryen"
             ]
         },
         {
@@ -899,33 +811,13 @@
             "marriedEngaged":[
                 "Lyanna Stark",
                 "Cersei Lannister"
-            ],
-            "allies":[
-                "Jon Arryn",
-                "Eddard Stark",
-                "Tywin Lannister"
-            ],
-            "killed":[
-                "Rhaegar Targaryen"
-            ],
-            "parentOf":[
-                "Joffrey Baratheon",
-                "Myrcella Baratheon",
-                "Tommen Baratheon"
-            ],
-            "killedBy":[
-                "Boar"
-            ],
-            "siblings":[
-                "Stannis Baratheon",
-                "Renly Baratheon"
             ]
         },
         {
             "characterName":"Robin Arryn",
             "houseName":"Arryn",
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjBlNzE3YjEtMTcwYS00OTQxLTk1NjEtNGMwNzJhNWI2OGJjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjBlNzE3YjEtMTcwYS00OTQxLTk1NjEtNGMwNzJhNWI2OGJjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+            "characterImageFull":"https://img.sharetv.com/shows/characters/large/game_of_thrones.robin_arryn.jpg",
             "characterLink":"/character/ch0300949/",
             "actorName":"Lino Facioli",
             "actorLink":"/name/nm2996220/",
@@ -987,14 +879,8 @@
         },
         {
             "characterName":"Shaggydog",
+            "characterImageFull":"https://static.wikia.nocookie.net/goff/images/1/14/MV5BNGZmOTU0MzQtODk4Yy00OTY1LTkyYmYtZDgwN2I3NDg4ZjAyXkEyXkFqcGdeQXVyMjk3NTUyOTc%40._V1_.jpg/",
             "houseName":"Stark",
-            "siblings":[
-                "Grey Wind",
-                "Lady",
-                "Nymeria",
-                "Summer",
-                "Ghost"
-            ],
             "guardianOf":[
                 "Rickon Stark"
             ],
@@ -1030,6 +916,7 @@
         {
             "characterName":"Summer",
             "houseName":"Stark",
+            "characterImageFull":"https://static.wikia.nocookie.net/gameofthrones/images/8/87/SummerS3.jpg/",
             "siblings":[
                 "Grey Wind",
                 "Lady",
@@ -1205,6 +1092,7 @@
         {
             "characterName":"Viserion",
             "houseName":"Targaryen",
+            "characterImageFull":"https://i.pinimg.com/564x/2d/34/78/2d3478bcd06a9e5120260caef57d554e.jpg",
             "siblings":[
                 "Drogon",
                 "Rhaegal"

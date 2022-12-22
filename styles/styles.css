@@ -1,11 +1,16 @@
 body{
-    background-color: #3C434A;
+    background-image: url("/images/clement-m-0vOoWtDiKXY-unsplash.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
-.container {
+div.container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .westerosMap {
@@ -18,33 +23,50 @@ body{
     stroke: #3C434A;
 }
 
-.westerosMap :hover {
-    fill:darkred;
+a#North.stark {
+    background-image: url("/images/sigil_stark_small.jpg");
 }
 
-.stark{
-    display: block;
+.westerosMap .stark :hover {
+    fill:rgb(175, 166, 166);
+    background-image: url("/images/sigil_stark_small.jpg");
 }
 
-.greyjoy{
-    display: block;
+.westerosMap .targaryen :hover {
+    fill:rgb(27, 26, 26);
 }
 
-.tyrell{
-    display: block;
+.westerosMap .greyjoy :hover {
+    fill:rgb(9, 9, 9);
 }
 
-.martell{
-    display: block;
+.westerosMap .tyrell :hover {
+    fill:rgb(34, 94, 36);
 }
 
-.baratheon{
-    display: block;
+.westerosMap .arryn :hover {
+    fill:rgb(34, 79, 205);
 }
 
-.lannister{
-    display: block;
+.westerosMap .lannister :hover {
+    fill:rgb(150, 0, 0);
 }
+
+.westerosMap .tully :hover {
+    fill:blue;
+}
+
+.westerosMap .martell :hover {
+    fill:rgb(248, 127, 6);
+}
+.westerosMap .baratheon :hover {
+    fill:rgb(248, 232, 56);
+}
+
+.bannerGoT {
+    width: 70%;
+}
+
 
 .cardsCharacters {
     display: flex;
