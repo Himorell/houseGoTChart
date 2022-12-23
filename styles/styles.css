@@ -1,5 +1,5 @@
 body{
-    background-image: url("/images/clement-m-0vOoWtDiKXY-unsplash.jpg");
+    background-color: #3C434A;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -8,8 +8,41 @@ body{
 
 header {
     width: 100%;
+    height: 50px;
+    background-color: goldenrod;
+    color: black;
+    height: auto;
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+
+.swordLogo {
+    height: 50px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    margin: 15px 5% 15px 5%;
+}
+
+h4 {
+    font-size: calc(.7rem + .3vw);
+    font-weight: bold;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    text-align: center;
+}
+
+h5 {
+    font-size: calc(.6rem + .3vw);
+    font-weight:lighter;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    text-align: center;
 }
 
 div.container {
@@ -22,18 +55,19 @@ div.container {
 }
 
 .westerosMap {
+    background-color: #282828;
+    border-radius: 15px;
+    margin-bottom: 15px;
     width: 40%;
 }
 
 .westerosMap path {
-    fill:#4a4a49;
+    fill:#6D6450;
     stroke: #060606;
 }
 
-
 .westerosMap .stark :hover {
     fill:rgb(175, 166, 166);
-    background-image: url("/images/sigil_stark_small.jpg");
 }
 
 .westerosMap .targaryen :hover {
@@ -67,74 +101,142 @@ div.container {
     fill:rgb(248, 232, 56);
 }
 
-.bannerGoT {
-    width: 100%;
+div .bannerGot {
+    width: 40%;
+    height: auto;
 }
 
+img.bannerGot {
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
 
 .cardsCharacters {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin: 2px 0 0 0;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.card {
+    width: 200px;
+    height: 200px;
+    --bs-card-spacer-y: .5rem;
+    --bs-card-spacer-x: .6rem;
+    --bs-card-title-spacer-y: 0.5rem;
+}
+
+div.card.Stark{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: calc(.6rem + .3vw);
+}
+
 .Stark {
-    margin: 3px;
+    margin: 2px;
     background-color: rgb(175, 166, 166)!important;
     color: black;
+}
 
+div.card.Lannister{
+    border: 2px solid gold;
+    border-radius: 5px;
+    font-size: calc(.6rem + .3vw);
 }
 
 .Lannister {
     margin: 3px;
     background-color: rgb(150, 0, 0)!important;
     color: gold;
+}
 
+div.card.Arryn{
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: calc(.6rem + .3vw);
+}
+
+.Arryn {
+    margin: 3px;
+    background-color: rgb(32, 73, 178)!important;
+    color: white;
+}
+
+div.card.Baratheon{
+    border: 2px solid #060606;
+    ;
+    border-radius: 5px;
+    font-size: calc(.6rem + .3vw);
 }
 
 .Baratheon {
     margin: 3px;
     background-color:rgb(248, 232, 56)!important;
     color: #060606;
+}
 
+div.card.Tyrell{
+    border: 2px solid gold;
+    border-radius: 5px;
+    font-size: calc(.6rem + .3vw);
 }
 
 .Tyrell {
     margin: 3px;
     background-color: rgb(34, 94, 36)!important;
     color:  gold;
+}
 
+div.card.Martell{
+    border: 2px solid darkred;
+    border-radius: 5px;
+    font-size: calc(.6rem + .3vw);
 }
 
 .Martell {
     margin: 3px;
     background-color: rgb(248, 127, 6)!important;
     color: darkred;
+}
 
+div.card.Tully{
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    font-size: calc(.6rem + .3vw);
 }
 
 .Tully {
     margin: 3px;
     background-color: blue!important;
     color: whitesmoke;
+}
 
+div.card.Greyjoy{
+    border: 2px solid gold;
+    border-radius: 5px;
+    font-size: calc(.6rem + .3vw);
 }
 
 .Greyjoy {
     margin: 3px;
     background-color: rgb(9, 9, 9)!important;
     color: gold;
-
 }
+
+div.card.Targaryen{
+    border: 2px solid darkred;
+    border-radius: 5px;
+    font-size: calc(.6rem + .3vw);
+}
+
 .Targaryen {
     margin: 3px;
     background-color: rgb(9, 9, 9)!important;
     color: darkred;
 }
-
 
 img {
     height: 80px;

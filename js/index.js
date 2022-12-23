@@ -21,7 +21,8 @@ fetchAllCharactersJson().then(allCharacters =>{
             <div class="card ${houseName}" style="width: 6rem;">
                 <img src="${characterImageFull}" alt="Imagen del personaje">
                 <div class="card-body">
-                    <h4 class="card-title">${characterName}</h3>
+                    <h4 class="card-title">${characterName}</h4>
+                    <h5 class="card-title">House ${houseName}</h5>
                 </div>
             </div>
         `
