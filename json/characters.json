@@ -1,181 +1,6 @@
 {
     "characters":[
-        {
-            "characterName":"Aeron Greyjoy",
-            "houseName":"Greyjoy",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1_.jpg",
-            "characterLink":"/character/ch0540081/",
-            "actorName":"Michael Feast",
-            "actorLink":"/name/nm0269923/",
-            "siblings":[
-                "Balon Greyjoy",
-                "Euron Greyjoy"
-            ],
-            "nickname":"Damphair"
-        },
-        {
-            "characterName":"Balon Greyjoy",
-            "houseName":"Greyjoy",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNjkwODczN15BMl5BanBnXkFtZTcwODMwNTgzNw@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNjkwODczN15BMl5BanBnXkFtZTcwODMwNTgzNw@@._V1_SY1000_CR0,0,637,1000_AL_.jpg",
-            "characterLink":"/character/ch0292152/",
-            "actorName":"Patrick Malahide"
-        },
-        {
-            "characterName":"Euron Greyjoy",
-            "houseName":"Greyjoy",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTJhMjMtMmY4Yy00NTU2LTliZWUtNjM4YzAxY2M3ZDBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTJhMjMtMmY4Yy00NTU2LTliZWUtNjM4YzAxY2M3ZDBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0518715/",
-            "actorName":"Pilou Asbæk",
-            "actorLink":"/name/nm1561982/",
-            "killed":[
-                "Balon Greyjoy",
-                "Obara Sand",
-                "Nymeria Sand",
-                "Rhaegal"
-            ],
-            "siblings":[
-                "Balon Greyjoy",
-                "Aeron Greyjoy"
-            ],
-            "killedBy":[
-                "Jaime Lannister"
-            ]
-        },
-        {
-            "characterName":"Theon Greyjoy",
-            "houseName":"Greyjoy",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3ODUyOTY3N15BMl5BanBnXkFtZTcwNjI4MTg4OQ@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3ODUyOTY3N15BMl5BanBnXkFtZTcwNjI4MTg4OQ@@._V1_.jpg",
-            "characterLink":"/character/ch0158526/",
-            "actorName":"Alfie Allen",
-            "actorLink":"/name/nm0654295/",
-            "killed":[
-                "Stiv",
-                "Rodrik Cassel",
-                "Myranda",
-                "Bolton Soldier",
-                "Harrag"
-            ],
-            "siblings":[
-                "Yara Greyjoy"
-            ],
-            "parents":[
-                "Balon Greyjoy"
-            ],
-            "killedBy":[
-                "The Night King"
-            ]
-        },
-        {
-            "characterName":"Yara Greyjoy",
-            "houseName":"Greyjoy",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NzU5ODk0MV5BMl5BanBnXkFtZTcwMzEyNDY2OQ@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NzU5ODk0MV5BMl5BanBnXkFtZTcwMzEyNDY2OQ@@._V1_SY1000_CR0,0,1503,1000_AL_.jpg",
-            "characterLink":"/character/ch0300217/",
-            "actorName":"Gemma Whelan",
-            "actorLink":"/name/nm2247629/",
-            "parents":[
-                "Balon Greyjoy"
-            ],
-            "siblings":[
-                "Theon Greyjoy"
-            ]
-        },
-        {
-            "characterName":"Aerys II Targaryen",
-            "houseName":"Targaryen",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMWQzOWViN2ItNDZhOS00MmZlLTkxZTYtZDg5NGUwMGRmYWZjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMWQzOWViN2ItNDZhOS00MmZlLTkxZTYtZDg5NGUwMGRmYWZjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0541362/",
-            "actorName":"David Rintoul",
-            "actorLink":"/name/nm0727778/",
-            "nickname":"The Mad King",
-            "royal":true
-        },
-        {
-            "characterName":"Daenerys Targaryen",
-            "houseName":"Targaryen",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzIxMTQwMF5BMl5BanBnXkFtZTcwMzY2NDg1Nw@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzIxMTQwMF5BMl5BanBnXkFtZTcwMzY2NDg1Nw@@._V1_SY1000_CR0,0,810,1000_AL_.jpg",
-            "characterLink":"/character/ch0158597/",
-            "actorName":"Emilia Clarke",
-            "actorLink":"/name/nm3592338/",
-            "royal":true
-        },
-        {
-            "characterName":"Drogon",
-            "houseName":"Targaryen",
-            "characterImageFull":"https://s.yimg.com/ny/api/res/1.2/v2ZwTbd2yyntW80Q3V8d8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4MDtjZj13ZWJw/https://media.zenfs.com/es/tomatazos_56/faa5766aeae1f8ddf673980524a1fb4e",
-            "siblings":[
-                "Rhaegal",
-                "Viserion"
-            ],
-            "guardianOf":[
-                "Daenerys Targaryen"
-            ],
-            "killed":[
-                "Pyat Pree",
-                "Kraznys mo Nakloz",
-                "Zalla"
-            ]
-        },
-        {
-            "characterName":"Viserion",
-            "houseName":"Targaryen",
-            "characterImageFull":"https://i.pinimg.com/564x/2d/34/78/2d3478bcd06a9e5120260caef57d554e.jpg",
-            "siblings":[
-                "Drogon",
-                "Rhaegal"
-            ],
-            "guardianOf":[
-                "Daenerys Targaryen"
-            ],
-            "killed":[
-                "Pyat Pree",
-                "Great Master #1"
-            ],
-            "killedBy":[
-                "The Night King",
-                "Arya Stark"
-            ]
-        },
-        {
-            "characterName":"Viserys Targaryen",
-            "houseName":"Targaryen",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzIxMTU1OV5BMl5BanBnXkFtZTcwNzI2ODg5NA@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzIxMTU1OV5BMl5BanBnXkFtZTcwNzI2ODg5NA@@._V1_SY1000_CR0,0,1503,1000_AL_.jpg",
-            "characterLink":"/character/ch0155775/",
-            "actorName":"Harry Lloyd",
-            "actorLink":"/name/nm0516003/",
-            "royal":true,
-            "parents":[
-                "Rhaella Targaryen",
-                "Aerys II Targaryen"
-            ],
-            "siblings":[
-                "Daenerys Targaryen",
-                "Rhaegar Targaryen"
-            ],
-            "killedBy":[
-                "Khal Drogo"
-            ]
-        },
         
-        {
-            "characterName":"Maester Aemon",
-            "houseName":"Targaryen",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDY4MzI5NV5BMl5BanBnXkFtZTcwMTk0ODg5NA@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDY4MzI5NV5BMl5BanBnXkFtZTcwMTk0ODg5NA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "characterLink":"/character/ch0246936/",
-            "actorName":"Peter Vaughan",
-            "actorLink":"/name/nm0891092/",
-            "killedBy":[
-                "Old Age"
-            ]
-        },
         {
             "characterName":"Arya Stark",
             "houseName":"Stark",
@@ -213,15 +38,6 @@
             "guardedBy":[
                 "Summer"
             ]
-        },
-        {
-            "characterName":"Catelyn Stark",
-            "houseName": "Tully",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODc4MTkxMV5BMl5BanBnXkFtZTcwNjM3MTg4OQ@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODc4MTkxMV5BMl5BanBnXkFtZTcwNjM3MTg4OQ@@._V1_SY1000_CR0,0,915,1000_AL_.jpg",
-            "characterLink":"/character/ch0145135/",
-            "actorName":"Michelle Fairley",
-            "actorLink":"/name/nm0265610/"
         },
         {
             "characterName":"Eddard Stark",
@@ -383,6 +199,281 @@
             ]
         },
         {
+            "characterName":"Aeron Greyjoy",
+            "houseName":"Greyjoy",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1_.jpg",
+            "characterLink":"/character/ch0540081/",
+            "actorName":"Michael Feast",
+            "actorLink":"/name/nm0269923/",
+            "siblings":[
+                "Balon Greyjoy",
+                "Euron Greyjoy"
+            ],
+            "nickname":"Damphair"
+        },
+        {
+            "characterName":"Balon Greyjoy",
+            "houseName":"Greyjoy",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNjkwODczN15BMl5BanBnXkFtZTcwODMwNTgzNw@@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNjkwODczN15BMl5BanBnXkFtZTcwODMwNTgzNw@@._V1_SY1000_CR0,0,637,1000_AL_.jpg",
+            "characterLink":"/character/ch0292152/",
+            "actorName":"Patrick Malahide"
+        },
+        {
+            "characterName":"Euron Greyjoy",
+            "houseName":"Greyjoy",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTJhMjMtMmY4Yy00NTU2LTliZWUtNjM4YzAxY2M3ZDBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTJhMjMtMmY4Yy00NTU2LTliZWUtNjM4YzAxY2M3ZDBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+            "characterLink":"/character/ch0518715/",
+            "actorName":"Pilou Asbæk",
+            "actorLink":"/name/nm1561982/",
+            "killed":[
+                "Balon Greyjoy",
+                "Obara Sand",
+                "Nymeria Sand",
+                "Rhaegal"
+            ],
+            "siblings":[
+                "Balon Greyjoy",
+                "Aeron Greyjoy"
+            ],
+            "killedBy":[
+                "Jaime Lannister"
+            ]
+        },
+        {
+            "characterName":"Theon Greyjoy",
+            "houseName":"Greyjoy",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3ODUyOTY3N15BMl5BanBnXkFtZTcwNjI4MTg4OQ@@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3ODUyOTY3N15BMl5BanBnXkFtZTcwNjI4MTg4OQ@@._V1_.jpg",
+            "characterLink":"/character/ch0158526/",
+            "actorName":"Alfie Allen",
+            "actorLink":"/name/nm0654295/",
+            "killed":[
+                "Stiv",
+                "Rodrik Cassel",
+                "Myranda",
+                "Bolton Soldier",
+                "Harrag"
+            ],
+            "siblings":[
+                "Yara Greyjoy"
+            ],
+            "parents":[
+                "Balon Greyjoy"
+            ],
+            "killedBy":[
+                "The Night King"
+            ]
+        },
+        {
+            "characterName":"Yara Greyjoy",
+            "houseName":"Greyjoy",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NzU5ODk0MV5BMl5BanBnXkFtZTcwMzEyNDY2OQ@@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NzU5ODk0MV5BMl5BanBnXkFtZTcwMzEyNDY2OQ@@._V1_SY1000_CR0,0,1503,1000_AL_.jpg",
+            "characterLink":"/character/ch0300217/",
+            "actorName":"Gemma Whelan",
+            "actorLink":"/name/nm2247629/",
+            "parents":[
+                "Balon Greyjoy"
+            ],
+            "siblings":[
+                "Theon Greyjoy"
+            ]
+        },
+        
+        {
+            "characterName":"Catelyn Stark",
+            "houseName": "Tully",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODc4MTkxMV5BMl5BanBnXkFtZTcwNjM3MTg4OQ@@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODc4MTkxMV5BMl5BanBnXkFtZTcwNjM3MTg4OQ@@._V1_SY1000_CR0,0,915,1000_AL_.jpg",
+            "characterLink":"/character/ch0145135/",
+            "actorName":"Michelle Fairley",
+            "actorLink":"/name/nm0265610/"
+        },
+        {
+            "characterName":"Edmure Tully",
+            "houseName":"Tully",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BYjEzNThlMmQtMDgzYi00MTQ5LTllMzQtNDZjY2JiMTVhNmNkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BYjEzNThlMmQtMDgzYi00MTQ5LTllMzQtNDZjY2JiMTVhNmNkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+            "characterLink":"/character/ch0316931/",
+            "actorName":"Tobias Menzies",
+            "actorLink":"/name/nm0580014/"
+        },
+        
+        {
+            "characterName":"Hoster Tully",
+            "houseName":"Tully",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTY3YzMzOWUtNzNjYi00ODYzLThjNjUtNzc4NzFlNmE2NjgyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTY3YzMzOWUtNzNjYi00ODYzLThjNjUtNzc4NzFlNmE2NjgyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+            "characterLink":"/character/ch0540082/",
+            "actorName":"Christopher Newman",
+            "actorLink":"/name/nm0628040/"
+        },
+        {
+            "characterName":"Lysa Arryn",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMmNlYTYzOTYtOTg1ZC00YzdlLTliNTgtZDhjMTY1MGViZTA5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMmNlYTYzOTYtOTg1ZC00YzdlLTliNTgtZDhjMTY1MGViZTA5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+            "characterLink":"/character/ch0251736/",
+            "actorName":"Kate Dickie",
+            "actorLink":"/name/nm0225483/",
+            "houseName":"Tully"
+        },
+        {
+            "characterName":"Jon Arryn",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmJiMzVjYzEtODA2ZC00NTkwLWI1ZDEtNDUxM2Y1NzcxZjU0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmJiMzVjYzEtODA2ZC00NTkwLWI1ZDEtNDUxM2Y1NzcxZjU0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+            "houseName":"Arryn",
+            "characterLink":"/character/ch0251737/",
+            "actorName":"John Standing",
+            "actorLink":"/name/nm0822062/",
+            "guardianOf":[
+                "Eddard Stark",
+                "Robert Baratheon"
+            ],
+            "allies":[
+                "Robert Baratheon"
+            ],
+            "killedBy":[
+                "Lysa Arryn"
+            ]
+        },
+        {
+            "characterName":"Robin Arryn",
+            "houseName":"Arryn",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjBlNzE3YjEtMTcwYS00OTQxLTk1NjEtNGMwNzJhNWI2OGJjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://img.sharetv.com/shows/characters/large/game_of_thrones.robin_arryn.jpg",
+            "characterLink":"/character/ch0300949/",
+            "actorName":"Lino Facioli",
+            "actorLink":"/name/nm2996220/",
+            "parents":[
+                "Jon Arryn",
+                "Lysa Arryn"
+            ]
+        },
+        {
+            "characterName":"Aerys II Targaryen",
+            "houseName":"Targaryen",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMWQzOWViN2ItNDZhOS00MmZlLTkxZTYtZDg5NGUwMGRmYWZjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMWQzOWViN2ItNDZhOS00MmZlLTkxZTYtZDg5NGUwMGRmYWZjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+            "characterLink":"/character/ch0541362/",
+            "actorName":"David Rintoul",
+            "actorLink":"/name/nm0727778/",
+            "nickname":"The Mad King",
+            "royal":true
+        },
+        {
+            "characterName":"Daenerys Targaryen",
+            "houseName":"Targaryen",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzIxMTQwMF5BMl5BanBnXkFtZTcwMzY2NDg1Nw@@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzIxMTQwMF5BMl5BanBnXkFtZTcwMzY2NDg1Nw@@._V1_SY1000_CR0,0,810,1000_AL_.jpg",
+            "characterLink":"/character/ch0158597/",
+            "actorName":"Emilia Clarke",
+            "actorLink":"/name/nm3592338/",
+            "royal":true
+        },
+        {
+            "characterName":"Drogon",
+            "houseName":"Targaryen",
+            "characterImageFull":"https://s.yimg.com/ny/api/res/1.2/v2ZwTbd2yyntW80Q3V8d8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4MDtjZj13ZWJw/https://media.zenfs.com/es/tomatazos_56/faa5766aeae1f8ddf673980524a1fb4e",
+            "siblings":[
+                "Rhaegal",
+                "Viserion"
+            ],
+            "guardianOf":[
+                "Daenerys Targaryen"
+            ],
+            "killed":[
+                "Pyat Pree",
+                "Kraznys mo Nakloz",
+                "Zalla"
+            ]
+        },
+        {
+            "characterName":"Viserion",
+            "houseName":"Targaryen",
+            "characterImageFull":"https://i.pinimg.com/564x/2d/34/78/2d3478bcd06a9e5120260caef57d554e.jpg",
+            "siblings":[
+                "Drogon",
+                "Rhaegal"
+            ],
+            "guardianOf":[
+                "Daenerys Targaryen"
+            ],
+            "killed":[
+                "Pyat Pree",
+                "Great Master #1"
+            ],
+            "killedBy":[
+                "The Night King",
+                "Arya Stark"
+            ]
+        },
+        {
+            "characterName":"Viserys Targaryen",
+            "houseName":"Targaryen",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzIxMTU1OV5BMl5BanBnXkFtZTcwNzI2ODg5NA@@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzIxMTU1OV5BMl5BanBnXkFtZTcwNzI2ODg5NA@@._V1_SY1000_CR0,0,1503,1000_AL_.jpg",
+            "characterLink":"/character/ch0155775/",
+            "actorName":"Harry Lloyd",
+            "actorLink":"/name/nm0516003/",
+            "royal":true,
+            "parents":[
+                "Rhaella Targaryen",
+                "Aerys II Targaryen"
+            ],
+            "siblings":[
+                "Daenerys Targaryen",
+                "Rhaegar Targaryen"
+            ],
+            "killedBy":[
+                "Khal Drogo"
+            ]
+        },
+        
+        {
+            "characterName":"Rhaegal",
+            "houseName":"Targaryen",
+            "characterImageFull":"https://awoiaf.westeros.org/images/a/a4/Marc_Fishman_Rhaegal_in_the_pit_face.jpg",
+            "siblings":[
+                "Drogon",
+                "Viserion"
+            ],
+            "guardianOf":[
+                "Daenerys Targaryen"
+            ],
+            "killed":[
+                "Pyat Pree",
+                "Great Master #1"
+            ],
+            "killedBy":[
+                "Euron Greyjoy"
+            ]
+        },
+        {
+            "characterName":"Rhaegar Targaryen",
+            "houseName":"Targaryen",
+            "characterImageFull":"https://pm1.narvii.com/6617/aa614d7a161ea97a4c3ab9ec2ca3a08febfd009f_hq.jpg",
+            "royal":true,
+            "parents":[
+                "Rhaella Targaryen",
+                "Aerys II Targaryen"
+            ]
+        },
+        {
+            "characterName":"Maester Aemon",
+            "houseName":"Targaryen",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDY4MzI5NV5BMl5BanBnXkFtZTcwMTk0ODg5NA@@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDY4MzI5NV5BMl5BanBnXkFtZTcwMTk0ODg5NA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+            "characterLink":"/character/ch0246936/",
+            "actorName":"Peter Vaughan",
+            "actorLink":"/name/nm0891092/",
+            "killedBy":[
+                "Old Age"
+            ]
+        },
+        {
             "characterName":"Lancel Lannister",
             "houseName":"Lannister",
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MTQ5MzEzNV5BMl5BanBnXkFtZTgwNTQ4MDA2NTE@._V1._SX100_SY140_.jpg",
@@ -516,126 +607,6 @@
             "actorName":"Charles Dance"
         },
         {
-            "characterName":"Doran Martell",
-            "houseName":"Martell",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BZWU5NzJkNWMtYTM4MS00YmE2LWExYmItNDNiOTE3YzI5YzAxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BZWU5NzJkNWMtYTM4MS00YmE2LWExYmItNDNiOTE3YzI5YzAxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,913,1000_AL_.jpg",
-            "characterLink":"/character/ch0468006/",
-            "actorName":"Alexander Siddig",
-            "actorLink":"/name/nm0796502/",
-            "killedBy":[
-                "Ellaria Sand"
-            ],
-            "parentOf":[
-                "Trystane Martell"
-            ],
-            "siblings":[
-                "Elia Martell",
-                "Oberyn Martell"
-            ]
-        },
-        
-        {
-            "characterName":"Ellaria Sand",
-            "houseName":"Martell",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ0ZDE5NDUtNDVmZi00ZTI5LTkyOTgtNDhiNjMwZjY3ZjgwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ0ZDE5NDUtNDVmZi00ZTI5LTkyOTgtNDhiNjMwZjY3ZjgwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0309687/",
-            "actorName":"Indira Varma",
-            "actorLink":"/name/nm0890055/",
-            "killed":[
-                "Myrcella Baratheon",
-                "Doran Martell"
-            ],
-            "parentOf":[
-                "Tyene Sand"
-            ],
-            "marriedEngaged":[
-                "Oberyn Martell"
-            ]
-        },
-        {
-            "characterName":"Edmure Tully",
-            "houseName":"Tully",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BYjEzNThlMmQtMDgzYi00MTQ5LTllMzQtNDZjY2JiMTVhNmNkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BYjEzNThlMmQtMDgzYi00MTQ5LTllMzQtNDZjY2JiMTVhNmNkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0316931/",
-            "actorName":"Tobias Menzies",
-            "actorLink":"/name/nm0580014/"
-        },
-        
-        {
-            "characterName":"Hoster Tully",
-            "houseName":"Tully",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTY3YzMzOWUtNzNjYi00ODYzLThjNjUtNzc4NzFlNmE2NjgyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTY3YzMzOWUtNzNjYi00ODYzLThjNjUtNzc4NzFlNmE2NjgyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0540082/",
-            "actorName":"Christopher Newman",
-            "actorLink":"/name/nm0628040/"
-        },
-        {
-            "characterName":"Gendry",
-            "houseName":"Baratheon",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNzYwMTk4MV5BMl5BanBnXkFtZTcwNDg1ODg4OQ@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNzYwMTk4MV5BMl5BanBnXkFtZTcwNDg1ODg4OQ@@._V1_SY1000_CR0,0,846,1000_AL_.jpg",
-            "characterLink":"/character/ch0300040/",
-            "actorName":"Joe Dempsie",
-            "actorLink":"/name/nm1478079/",
-            "parents":[
-                "Robert Baratheon"
-            ],
-            "killed":[
-                "Kevin Eldon",
-                "Laurence Spellman"
-            ]
-        },
-        {
-            "characterName":"Joffrey Baratheon",
-            "houseName":"Baratheon",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDg5MTAwMl5BMl5BanBnXkFtZTcwOTIwODg4OQ@@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDg5MTAwMl5BMl5BanBnXkFtZTcwOTIwODg4OQ@@._V1_SY1000_CR0,0,818,1000_AL_.jpg",
-            "characterLink":"/character/ch0156278/",
-            "actorName":"Jack Gleeson",
-            "actorLink":"/name/nm0322416/",
-            "royal":true,
-            "killed":[
-                "Ros"
-            ],
-            "killedBy":[
-                "Petyr Baelish",
-                "Olenna Tyrell"
-            ]
-        },
-        {
-            "characterName":"Jon Arryn",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmJiMzVjYzEtODA2ZC00NTkwLWI1ZDEtNDUxM2Y1NzcxZjU0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmJiMzVjYzEtODA2ZC00NTkwLWI1ZDEtNDUxM2Y1NzcxZjU0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
-            "houseName":"Arryn",
-            "characterLink":"/character/ch0251737/",
-            "actorName":"John Standing",
-            "actorLink":"/name/nm0822062/",
-            "guardianOf":[
-                "Eddard Stark",
-                "Robert Baratheon"
-            ],
-            "allies":[
-                "Robert Baratheon"
-            ],
-            "killedBy":[
-                "Lysa Arryn"
-            ]
-        },
-        
-        {
-            "characterName":"Lysa Arryn",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMmNlYTYzOTYtOTg1ZC00YzdlLTliNTgtZDhjMTY1MGViZTA5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMmNlYTYzOTYtOTg1ZC00YzdlLTliNTgtZDhjMTY1MGViZTA5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0251736/",
-            "actorName":"Kate Dickie",
-            "actorLink":"/name/nm0225483/",
-            "houseName":"Tully"
-        },
-        {
             "characterName":"Mace Tyrell",
             "houseName":"Tyrell",
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTcyZWFjZjItYmI4NS00ZDE2LTg4Y2YtYWJkYWI5MWJlNWFjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
@@ -651,7 +622,6 @@
                 "Loras Tyrell"
             ]
         },
-        
         {
             "characterName":"Loras Tyrell",
             "houseName":"Tyrell",
@@ -698,6 +668,40 @@
             "actorName":"Natalie Dormer",
             "actorLink":"/name/nm1754059/"
         },
+        
+        {
+            "characterName":"Gendry",
+            "houseName":"Baratheon",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNzYwMTk4MV5BMl5BanBnXkFtZTcwNDg1ODg4OQ@@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNzYwMTk4MV5BMl5BanBnXkFtZTcwNDg1ODg4OQ@@._V1_SY1000_CR0,0,846,1000_AL_.jpg",
+            "characterLink":"/character/ch0300040/",
+            "actorName":"Joe Dempsie",
+            "actorLink":"/name/nm1478079/",
+            "parents":[
+                "Robert Baratheon"
+            ],
+            "killed":[
+                "Kevin Eldon",
+                "Laurence Spellman"
+            ]
+        },
+        {
+            "characterName":"Joffrey Baratheon",
+            "houseName":"Baratheon",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDg5MTAwMl5BMl5BanBnXkFtZTcwOTIwODg4OQ@@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDg5MTAwMl5BMl5BanBnXkFtZTcwOTIwODg4OQ@@._V1_SY1000_CR0,0,818,1000_AL_.jpg",
+            "characterLink":"/character/ch0156278/",
+            "actorName":"Jack Gleeson",
+            "actorLink":"/name/nm0322416/",
+            "royal":true,
+            "killed":[
+                "Ros"
+            ],
+            "killedBy":[
+                "Petyr Baelish",
+                "Olenna Tyrell"
+            ]
+        },
         {
             "characterName":"Myrcella Baratheon",
             "houseName":"Baratheon",
@@ -722,27 +726,6 @@
             ]
         },
         {
-            "characterName":"Obara Sand",
-            "houseName":"Martell",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BOWU3OTRmYmItZTZiYi00Mjk1LTk2NTItMzBjZmQ3NDZhMDMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BOWU3OTRmYmItZTZiYi00Mjk1LTk2NTItMzBjZmQ3NDZhMDMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0468001/",
-            "actorName":"Keisha Castle-Hughes",
-            "actorLink":"/name/nm1095720/"
-        },
-        {
-            "characterName":"Oberyn Martell",
-            "houseName":"Martell",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BZTJmYjViYjctYTU0My00NTJiLWE2YzUtOWZkNTg4MTZkZmEyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BZTJmYjViYjctYTU0My00NTJiLWE2YzUtOWZkNTg4MTZkZmEyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-            "characterLink":"/character/ch0392307/",
-            "actorName":"Pedro Pascal",
-            "actorLink":"/name/nm0050959/",
-            "killedBy":[
-                "Gregor Clegane"
-            ]
-        },
-        {
             "characterName":"Renly Baratheon",
             "houseName":"Baratheon",
             "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjA4OTE5MzcyOF5BMl5BanBnXkFtZTcwNDA1ODg5NA@@._V1._SX100_SY140_.jpg",
@@ -760,36 +743,7 @@
             "marriedEngaged":[
                 "Margaery Tyrell"
             ]
-        },
-        {
-            "characterName":"Rhaegal",
-            "houseName":"Targaryen",
-            "characterImageFull":"https://awoiaf.westeros.org/images/a/a4/Marc_Fishman_Rhaegal_in_the_pit_face.jpg",
-            "siblings":[
-                "Drogon",
-                "Viserion"
-            ],
-            "guardianOf":[
-                "Daenerys Targaryen"
-            ],
-            "killed":[
-                "Pyat Pree",
-                "Great Master #1"
-            ],
-            "killedBy":[
-                "Euron Greyjoy"
-            ]
-        },
-        {
-            "characterName":"Rhaegar Targaryen",
-            "houseName":"Targaryen",
-            "royal":true,
-            "parents":[
-                "Rhaella Targaryen",
-                "Aerys II Targaryen"
-            ]
-        },
-        
+        },        
         {
             "characterName":"Robert Baratheon",
             "houseName":"Baratheon",
@@ -807,20 +761,6 @@
                 "Cersei Lannister"
             ]
         },
-        {
-            "characterName":"Robin Arryn",
-            "houseName":"Arryn",
-            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjBlNzE3YjEtMTcwYS00OTQxLTk1NjEtNGMwNzJhNWI2OGJjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-            "characterImageFull":"https://img.sharetv.com/shows/characters/large/game_of_thrones.robin_arryn.jpg",
-            "characterLink":"/character/ch0300949/",
-            "actorName":"Lino Facioli",
-            "actorLink":"/name/nm2996220/",
-            "parents":[
-                "Jon Arryn",
-                "Lysa Arryn"
-            ]
-        },
-        
         {
             "characterName":"Selyse Baratheon",
             "houseName":"Baratheon",
@@ -881,6 +821,66 @@
             ],
             "parents":[
                 "Doran Martell"
+            ]
+        },
+        
+        {
+            "characterName":"Doran Martell",
+            "houseName":"Martell",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BZWU5NzJkNWMtYTM4MS00YmE2LWExYmItNDNiOTE3YzI5YzAxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BZWU5NzJkNWMtYTM4MS00YmE2LWExYmItNDNiOTE3YzI5YzAxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,913,1000_AL_.jpg",
+            "characterLink":"/character/ch0468006/",
+            "actorName":"Alexander Siddig",
+            "actorLink":"/name/nm0796502/",
+            "killedBy":[
+                "Ellaria Sand"
+            ],
+            "parentOf":[
+                "Trystane Martell"
+            ],
+            "siblings":[
+                "Elia Martell",
+                "Oberyn Martell"
+            ]
+        },
+        {
+            "characterName":"Ellaria Sand",
+            "houseName":"Martell",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ0ZDE5NDUtNDVmZi00ZTI5LTkyOTgtNDhiNjMwZjY3ZjgwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ0ZDE5NDUtNDVmZi00ZTI5LTkyOTgtNDhiNjMwZjY3ZjgwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+            "characterLink":"/character/ch0309687/",
+            "actorName":"Indira Varma",
+            "actorLink":"/name/nm0890055/",
+            "killed":[
+                "Myrcella Baratheon",
+                "Doran Martell"
+            ],
+            "parentOf":[
+                "Tyene Sand"
+            ],
+            "marriedEngaged":[
+                "Oberyn Martell"
+            ]
+        },
+        {
+            "characterName":"Obara Sand",
+            "houseName":"Martell",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BOWU3OTRmYmItZTZiYi00Mjk1LTk2NTItMzBjZmQ3NDZhMDMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BOWU3OTRmYmItZTZiYi00Mjk1LTk2NTItMzBjZmQ3NDZhMDMyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+            "characterLink":"/character/ch0468001/",
+            "actorName":"Keisha Castle-Hughes",
+            "actorLink":"/name/nm1095720/"
+        },
+        {
+            "characterName":"Oberyn Martell",
+            "houseName":"Martell",
+            "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BZTJmYjViYjctYTU0My00NTJiLWE2YzUtOWZkNTg4MTZkZmEyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+            "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BZTJmYjViYjctYTU0My00NTJiLWE2YzUtOWZkNTg4MTZkZmEyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+            "characterLink":"/character/ch0392307/",
+            "actorName":"Pedro Pascal",
+            "actorLink":"/name/nm0050959/",
+            "killedBy":[
+                "Gregor Clegane"
             ]
         },
         {
